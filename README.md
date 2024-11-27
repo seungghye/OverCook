@@ -1,4 +1,4 @@
-# ⚒ OverCook Modeling
+# ⚒ OverCook 
 
 # 📢Info
 현재 서비스 중인 OVERCOOKED라는 게임의 프레임워크와 상호작용, 레벨디자인 등을 모작한 멀티플레이 게임을 개발을 하였습니다.
@@ -9,11 +9,8 @@
 
 + __개발 목표__ : 현재 서비스 중인 게임의 디자인을 최대한 유사한 레벨과, UI를 구성해보고자하였습니다.
 
++ __개발 기간__ : 2024.10.11 ~ 2024. 11.22 
 
-## Use Tool
-- Maya
-- Blender
-- Adobe Photoshop
 
 ## 🛠Entry Level Design
 공원의 푸드트럭에서 주문을 한다는 컨셉으로 새롭게 디자인을 하였습니다.
@@ -38,5 +35,9 @@ OVERCOOKED에서는 멸망 직전의 도시에서 몬스터에게 먹을 것을 
 1. Building의 창문
 2. Food Spawn Box
 3. Smoke VFX
-4. 
+
+## Use Tool
+- Maya
+- Blender
+- Adobe Photoshop
    
