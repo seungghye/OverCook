@@ -38,7 +38,7 @@ OVERCOOKED에서는 멸망 직전의 도시에서 몬스터에게 먹을 것을 
 2. Food Spawn Box
 3. Smoke VFX
 
-#### Data Asset
+#### 📌Data Asset
 + __Food Item__
   
    계속해서 변경되는 Food Mesh를 Data Asset으로 관리해 추가 Food Mesh 혹은 유지보수 등에 효율적이도록 구성하였습니다.
@@ -54,6 +54,8 @@ OVERCOOKED에서는 멸망 직전의 도시에서 몬스터에게 먹을 것을 
  
 
 ## Use Tool
+ <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat&logo=unrealengin&logoColor=Black"/>
+
 - Maya
 - Blender
 - Adobe Photoshop
