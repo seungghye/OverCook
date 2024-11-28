@@ -13,24 +13,23 @@
 + __개발 기간__ : 2024.10.11 ~ 2024. 11.22 
 
 
+
+
 ## 🛠Entry Level Design
 공원의 푸드트럭에서 주문을 한다는 컨셉으로 새롭게 디자인을 하였습니다.
 ![001](https://github.com/user-attachments/assets/93ef1da0-96f4-40b6-8063-caba93f45be2)
 
-
 #### 📌Details
 0. Mesh
 1. LandScape
-   
+
 ## 🛠Lobby Level Design
 원작의 Lobby와 비슷한 디자인을 컨셉으로 그 안에 필요한 Asset과 바닥의 텍스처 등을 제작하였습니다.
 ![002](https://github.com/user-attachments/assets/6ec0c3d6-cc78-49c2-bee0-bcbc92a8e7a3)
 
-
 #### 📌Details
 0. Mesh
 1. Tree Material Instances
-
 
 ## 🛠Stage 1-1 Level Design
 OVERCOOKED에서는 멸망 직전의 도시에서 몬스터에게 먹을 것을 주어야한다는 컨셉으로 레벨디자인이 되어있습니다.
@@ -39,18 +38,17 @@ OVERCOOKED에서는 멸망 직전의 도시에서 몬스터에게 먹을 것을 
 
 ![003](https://github.com/user-attachments/assets/9175a2a4-9adc-4332-bc80-36036a0965f6)
 
-
 #### 📌Details
 0. Mesh
 1. Building의 창문
 2. Food Spawn Box
 3. Smoke VFX
 
+   
 #### 📌Data Asset
 + __Food Item__
   
    계속해서 변경되는 Food Mesh를 Data Asset으로 관리해 추가 Food Mesh 혹은 유지보수 등에 효율적이도록 구성하였습니다.
-
 
 + __Recipe Asset__
   
